@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="71">
+    <author>modelleicher</author>
+    <version>0.8.0.0 Github Release</version>
+    <title>
+        <de>RealismAddon: Balers</de>
+		<en>RealismAddon: Balers</en>
+    </title>
+    <description>
+        <de>
+<![CDATA[RealismAddon: Balers]]>
+        </de>
+	<en>
+<![CDATA[RealismAddon: Balers]]>
+	</en>
+    </description>
+
+	<iconFilename>store.dds</iconFilename>
+
+	
+    <multiplayer supported="true"/>
+    <extraSourceFiles>
+	
+        <sourceFile filename="realismAddon_balers.lua"/>
+				
+    </extraSourceFiles>
+	
+	<l10n>
+
+	</l10n>
+	
+	<inputBinding>
+					
+	</inputBinding>
+	
+	<actions>
+		
+	</actions>	
+	
+</modDesc>
